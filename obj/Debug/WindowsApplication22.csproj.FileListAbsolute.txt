@@ -1,0 +1,12 @@
+G:\new html 5 94\Csharp-Games[Second Series]\Maze\2\EaterGameII\obj\Debug\WindowsApplication22.exe
+G:\new html 5 94\Csharp-Games[Second Series]\Maze\2\EaterGameII\obj\Debug\WindowsApplication22.pdb
+C:\Users\zhila\Desktop\Maze\2\EaterGameII\obj\Debug\WindowsApplication22.exe
+C:\Users\zhila\Desktop\Maze\2\EaterGameII\obj\Debug\WindowsApplication22.pdb
+C:\Users\pooya\Desktop\project]\Maze\2\EaterGameII\bin\Debug\WindowsApplication22.exe
+C:\Users\pooya\Desktop\project]\Maze\2\EaterGameII\bin\Debug\WindowsApplication22.pdb
+C:\Users\pooya\Desktop\project]\Maze\2\EaterGameII\obj\Debug\WindowsApplication22.csprojAssemblyReference.cache
+C:\Users\pooya\Desktop\project]\Maze\2\EaterGameII\obj\Debug\WindowsApplication22.Form1.resources
+C:\Users\pooya\Desktop\project]\Maze\2\EaterGameII\obj\Debug\WindowsApplication22.csproj.GenerateResource.cache
+C:\Users\pooya\Desktop\project]\Maze\2\EaterGameII\obj\Debug\WindowsApplication22.csproj.CoreCompileInputs.cache
+C:\Users\pooya\Desktop\project]\Maze\2\EaterGameII\obj\Debug\WindowsApplication22.exe
+C:\Users\pooya\Desktop\project]\Maze\2\EaterGameII\obj\Debug\WindowsApplication22.pdb
